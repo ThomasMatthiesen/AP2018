@@ -1,0 +1,88 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 400px;
+  color: orange;
+  margin: 0;
+}
+
+@keyframes loadtext {
+    0%   {color: white;}
+    100%  {color: orange;}
+}
+
+h3 {
+  font-size: 25px;
+  color: orange;
+  margin: 20px;
+  animation-name: loadtext;
+  animation-duration: 1s;
+}
+
+#p5_loading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#loadContainer {
+  width: 75%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+@keyframes load {
+    0%   {background-color: white;}
+    100%  {background-color: orange;}
+}
+
+#loadbox1 {
+  width: 20%;
+  height: 100%;
+  background-color: orange;
+  animation-name: load;
+  animation-duration: 0.2s;
+}
+
+#loadbox2 {
+  width: 20%;
+  height: 100%;
+  background-color: orange;
+  animation-name: load;
+  animation-duration: 0.6s;
+}
+
+#loadbox3 {
+  width: 20%;
+  height: 100%;
+  background-color: orange;
+  animation-name: load;
+  animation-duration: 0.9s;
+}
+
+#loadbox4 {
+  width: 20%;
+  height: 100%;
+  background-color: orange;
+  animation-name: load;
+  animation-duration: 1.4s;
+}
+
+#loadbox5 {
+  width: 20%;
+  height: 100%;
+  background-color: orange;
+  animation-name: load;
+  animation-duration: 1.6s;
+}
