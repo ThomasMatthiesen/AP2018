@@ -51,7 +51,7 @@ function preload() {
   // preload music & sounds
   // theme
   soundFormats('mp3', 'ogg');
-  theme = loadSound('media/audio/tema');
+  theme = loadSound('media/audio/Tema.mp3');
   // AW
   aw1 = loadSound('media/audio/AV1.mp3');
   aw2 = loadSound('media/audio/AV2.mp3');
