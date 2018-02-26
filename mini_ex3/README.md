@@ -1,3 +1,4 @@
+![ScreenShot](https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex3/screenshot.png)
 
 https://cdn.rawgit.com/ThomasMatthiesen/AP2018/48f6b7c0/mini_ex3/mini_ex3/files/index.html
 
