@@ -3,6 +3,9 @@ var time = 0;
 var inp;
 var infoAmount = 10;
 
+function preload() {
+}
+
 function setup() {
   video = createVideo("media/cats.mp4"); // creates video
   createP('Please fill in personal data to continue watching this awesome cat video'); // creates paragraph
