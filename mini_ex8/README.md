@@ -46,5 +46,7 @@ I think if I had to work further on a project with APIs, I would dig into anothe
 
 
 <h3>References</h3>
-- Albright, J. "The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle". Medium, 2018. 
-- Gauthier, D., Samson, A., Snodgrass, E., Soon, W. & Tyzlik-Carver, M. Critical Software Thing. Executing. Draft. 2017. 
+
+Albright, J. "The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle". Medium, 2018. 
+
+Gauthier, D., Samson, A., Snodgrass, E., Soon, W. & Tyzlik-Carver, M. Critical Software Thing. Executing. Draft. 2017. 
