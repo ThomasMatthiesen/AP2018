@@ -1,5 +1,6 @@
-<h3>Flowchart of previous program</h3>
-![ScreenShot](https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Mini_ex2_Flow_Chart.jpg)
+<h3>Flowchart of previous program</h3>!
+
+[ScreenShot](https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Mini_ex2_Flow_Chart.jpg)
 
 <a href="https://github.com/ThomasMatthiesen/AP2018/tree/master/mini_ex2">Click here to see my mini_ex2 folder.</a>
 
