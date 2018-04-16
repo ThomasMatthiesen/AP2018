@@ -24,7 +24,7 @@ A difference between my own personal flowchart and a group flowchart is that the
 As I mentioned earlier; there are many ways to create and shape a flowchart based on your final use of it. This links up nicely with the way algorithms can be understood. Basically there are many ways of solving the same problem and this is the situation with algorithms too. This leads to complexity and a certain problem setting in our modern world, as Finn puts it:
 "We live, for the most part, in a world built by algorithmic pragmatists. Indeed, the ambition and scale of corporate operations like Google means that their definitions of algorithms - what the problems are, and how to solve them - can profoundly change the world" (Ed Finn, 2007). What Finn expresses here is that the way we interpret and solve the problems given to us will in the end define us and our surroundings. That is why a big company like Google has a big responsibility when taking decisions about algorithms and how they solve there problems. When making a flowchart in a group we are not having such a tremendous responsibility - but we do have some. The way we present a program through a flowchart will definitely affect the program's functionality in the end. This must be taken into considerations when using a flowchart and defining a program through this organisation and visualisation tool.
 
-<h4>Reference:</h4>
+<h4>References:</h4>
 - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56.
 
 
