@@ -8,16 +8,14 @@ I have made a quiet simple flowchart showing the main function of my mini_ex2. T
 So it's a balance-issue, which can only be solved by reflecting over the audience, the use of and the need for technical information in the flowchart.
 
 <h3>Idea: Neutralizer of web content</h3>
-[ScreenShot]
-(https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Flow_Chart2.png)
+[ScreenShot](https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Flow_Chart2.png)
 
 We mainly want to focus on the topic of code and language in the digital culture. We want to create a program that can manipulate what is visually accessible to you, and often forced upon you while you are engaged in the digital world. We want to challenge the lacking of control of the contemporary constant feeds and data streams that we experience on the web. This by creating something that affords the individual to choose and take control of what is shown to them and therefore make web content from external sources less powerful (ex. the browser extension AdBlock).
 Our ideas strives from a program that removes adjectives, to one that neutralizes genders or even one that can change negative words into positive ones. To make a program with functions like these, we will have to make a web extension that is able to examine the content of the current webpage and be able replace or manipulate it.
 The flowchart we have made for this idea is based on an algorithm that is supposed to get the news articles from a website, analyse the text for adjectives and then remove them. When the program as gone through the whole text it shall print the new and changed article.
 
 <h3>The second idea, flowchart and algorithms</h3>
-[ScreenShot]
-(https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Flow_Chart1.png)
+[ScreenShot](https://github.com/ThomasMatthiesen/AP2018/blob/master/mini_ex9/Flow_Chart1.png)
 
 Our idea for the second flowchart is in the same category as our first idea. Instead of a program that removes adjectives, we want this program to have an input field where you can write different words you don’t want to read articles about. So like our first idea the program will get an article or some other content from a website, and then analyse the content for the keywords that you didn’t want to see. This program gives the users some control of what they are going to look at online by choosing what not to see. 
 
