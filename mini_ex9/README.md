@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ThomasMatthiesen/AP2018/tree/master/mini_ex2">Click here to see my mini_ex2 folder.</a>
 
-I have made a quiet simple flowchart showing the main function of my mini_ex2. The difficulty in drawing a flow chart is to choose how detailed it should be and which information it should contain. I think the most important thing here is to consider the audience for the flowchart - or how you want to use the flowchart. To much technical detail might obscure the program for people that are not interested in this information, and a to shallow flowchart might not define the functions of the program well-enough to people working with technicalities.
+I have made a quite simple flowchart showing the main function of my mini_ex2. The difficulty in drawing a flow chart is to choose how detailed it should be and which information it should contain. I think the most important thing here is to consider the audience for the flowchart - or how you want to use the flowchart. To much technical detail might obscure the program for people that are not interested in this information, and a to shallow flowchart might not define the functions of the program well-enough to people working with technicalities.
 So it's a balance-issue, which can only be solved by reflecting over the audience, the use of and the need for technical information in the flowchart.
 
 <h3>Idea: Neutralizer of web content</h3
